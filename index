@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favourite Mag - Music Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        main {
+            padding: 20px;
+        }
+        article {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-bottom: 1px solid #ccc;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Favourite Mag by Eilidh Mackenzie</h1>
+    <p>Your go-to source for the latest in music</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#reviews">Reviews</a>
+    <a href="#interviews">Interviews</a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+    <article>
+        <h2>Album Review: "Future Sounds" by The Synths</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel elit at odio ullamcorper bibendum. Nulla facilisi. Vivamus ultricies, felis ac interdum fermentum, purus erat dictum libero, et elementum ligula metus a leo. Donec id tincidunt risus.</p>
+    </article>
+
+    <article>
+        <h2>Interview with Indie Star Lana Blue</h2>
+        <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque bibendum nulla in nisi scelerisque, ac fermentum elit dapibus. Morbi euismod sem et eros convallis, eget vulputate neque hendrerit.</p>
+    </article>
+
+    <article>
+        <h2>Breaking News: Summer Music Festival Lineup Announced</h2>
+        <p>Aenean vitae ex nec lorem luctus pretium. Phasellus sed tellus vitae eros aliquam gravida. Maecenas ullamcorper dolor at dui tempor, sit amet scelerisque odio hendrerit.</p>
+    </article>
+</main>
+
+<footer>
+    <p>&copy; 2024 Favourite Mag. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
